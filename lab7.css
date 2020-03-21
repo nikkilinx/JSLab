@@ -1,0 +1,19 @@
+#userinput {
+    color: blue;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+#result{
+    font-weight: lighter;
+    font-variant: small-caps;
+}
+
+#level {
+    font-weight: lighter;
+    text-decoration: underline ;
+}
+
+#goal {
+    font-size: 2em;
+}
